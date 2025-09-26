@@ -1,6 +1,6 @@
-# Informe de Pruebas de Aseguramiento de la Calidad
+# Informe de Pruebas de  PRUEBAS Y MANTENIMIENTO DE SOFTWARE
 
-Este repositorio contiene la práctica de **Aseguramiento de la Calidad del Software**, donde se realizaron pruebas automáticas usando **Selenium** sobre la página de información personal.
+Este repositorio contiene la práctica de **PRUEBAS Y MANTENIMIENTO DE SOFTWARE**, donde se realizaron pruebas automáticas usando **Selenium** sobre la página de información personal.
 
 ---
 
